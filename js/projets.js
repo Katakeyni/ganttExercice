@@ -61,51 +61,51 @@ var projets = [
 			{
 				nom: "Nom du projets",
 				debut: new Date("28 Mai 2016"),
-				fin: new Date("3 Mar 2016"),
+				fin: new Date("3 Jun 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date("5 Jun 2016"),
+				fin: new Date("22 Jun 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date("19 Jun 2016"),
+				fin: new Date("16 Jul 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date("17 Jul 2016"),
+				fin: new Date("30 Jul 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date("1 Aug 2016"),
+				fin: new Date("28 Aug 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date("28 Aug 2016"),
+				fin: new Date("23 Sep 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date("24 Sep 2016"),
+				fin: new Date(" 17 Nov 2016"),
 				progression: 40
 			},
 			{
 				nom: "Nom du projets",
-				debut: new Date("1 Jan 2016"),
-				fin: new Date("3 Mar 2016"),
+				debut: new Date(" 20 Nov 2016"),
+				fin: new Date("24 Dec 2016"),
 				progression: 40
-			},
+			}
 		]
 	}
 ]
